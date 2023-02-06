@@ -1,0 +1,39 @@
+John Mills
+Software Engineer (Front-End)
+jpm23456@gmail.com
+4145529343
+https://github.com/iamjohnmills
+https://www.linkedin.com/in/iamjohnmills
+
+Pragmatic and detail-oriented front-end engineer with extensive hands-on experience developing large-scale front-end applications. I have a keen interest in crafting intuitive UIs within modern tech stacks and distributed systems.
+
+TECHNICAL SKILLS
+Javascript: ES5/6/7, Vue, React, Typescript, Components, Async/Await/Promises, Event listeners, DOM manipulation, Map/Filter/Reduce/Etc, REST API integrations
+UI/X: Deep CSS knowledge, Flexbox, Bootstrap, Animations, User-centered principles, Responsive design, Browser compatibility
+Full-stack: Microservices with Node/Express/WebSockets, Database structures, API testing tools, Debugging tools, Git branching/merging, CI/CD using Gitlab, NPM, CLI tools, Build processes, Agile
+
+WORK HISTORY
+Allbridge, Software Engineer (Front End)
+March 2018-Present
+Currently developing next-generation, user-facing experiences in the IT/Networking space using Vue.js
+* Responsible for the front-end experience of thousands of nation-wide, high-profile customers to manage their hotel wi-fi networks.
+* Built and shipped MVPs for a variety of new-business generating features including a conference network scheduling tool, customizable client connect pages, a personal area network management tool, visual dashboards, a network device management tool, and administrative support tools.
+* Leverage deep integrations with Rest APIs to create intuitive dashboards, charts, forms, tables, and more.
+* Utilize modern JS with Vue including lifecycle model, router, store, refs, event listeners, and more to build custom components and utility functions.
+* Craft modern UIs using CSS3, Flexbox, Bootstrap, SVG, Web Fonts, Chart.js, and custom modular classes.
+* Professional experience in modern front-end software development using GIT in a collaborative, agile team environment
+
+UW-Milwaukee, Web Developer
+2005-2015
+Developed leading-edge web projects, sites, redesigns, landing pages, promo content and more.
+
+EDUCATION
+UW-Milwaukee
+BBA in Information Systems
+2005
+
+FEATURED PROJECT
+https://github.com/iamjohnmills/gameoflife
+A performant JS + Canvas implementation of Conway's Game Of Life.
+
+**I like making light-weight, native JS apps and games. Check out more of my code samples and working demos at https://github.com/iamjohnmills
