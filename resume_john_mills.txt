@@ -5,7 +5,7 @@ jpm23456@gmail.com
 https://github.com/iamjohnmills
 https://www.linkedin.com/in/iamjohnmills
 
-Pragmatic and detail-oriented front-end engineer with experience developing large-scale front-end applications. I am interested in building intuitive UIs within modern tech stacks and distributed systems.
+Pragmatic and detail-oriented front-end engineer with experience developing large-scale front-end applications. I'm interested in building intuitive UIs within modern tech stacks and distributed systems.
 
 SKILLS
 Javascript, Vue, React, Typescript, CSS, Rest APIs, RWD, Build Tools, Docker, Git, CI/CD
