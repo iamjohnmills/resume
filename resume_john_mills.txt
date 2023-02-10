@@ -10,7 +10,7 @@ Pragmatic and detail-oriented front-end engineer with hands-on experience develo
 SKILLS
 Javascript, Vue, React, Typescript, CSS, Rest APIs, RWD, Build Tools, Docker, Git, CI/CD
 
-WORK HISTORY
+EXPERIENCE
 Allbridge, Software Engineer (Front End)
 2018–Current
 Currently developing next-generation experiences in the IT—Networking space.
@@ -27,6 +27,5 @@ UW—Milwaukee
 BBA in Information Systems
 2005
 
-FEATURED PROJECT
-https://github.com/iamjohnmills/gameoflife
-* A light-weight, performant JS + Canvas version of Conway's Game Of Life.
+**I like making light-weight JS apps and games. Check out my code samples and demos at https://github.com/iamjohnmills
+
