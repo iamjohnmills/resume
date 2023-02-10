@@ -1,39 +1,32 @@
 John Mills
-Software Engineer (Front-End)
+Software Engineer (Front End)
 jpm23456@gmail.com
 414-552-9343
 https://github.com/iamjohnmills
 https://www.linkedin.com/in/iamjohnmills
 
-Pragmatic and detail-oriented front-end engineer with extensive hands-on experience developing large-scale front-end applications. I have a keen interest in crafting intuitive UIs within modern tech stacks and distributed systems.
+Pragmatic and detail-oriented front-end engineer with hands-on experience developing large-scale front-end applications. I am interested in building intuitive UIs within modern tech stacks and distributed systems.
 
-TECHNICAL SKILLS
-Javascript: ES5/6/7, Vue, React, Typescript, Components, Async/Await/Promises, Event listeners, DOM manipulation, Javascript Web APIs, Map/Filter/Reduce, Rest APIs
-UI: Deep CSS knowledge, Flexbox, Bootstrap, Animations, SVGs, RWD, User-centered principles, Browser compatibility
-More: Node, Express, Web Sockets, Database structures, API testing tools, Debugging tools, Git branching/merging, CI/CD using Gitlab, NPM, CLI tools, Build processes, Agile
+SKILLS
+Javascript, Vue, React, Typescript, CSS, Rest APIs, RWD, Build Tools, Docker, Git, CI/CD
 
 WORK HISTORY
 Allbridge, Software Engineer (Front End)
-March 2018-Present
-Currently developing next-generation, user-facing experiences in the IT / Networking space with modern JS and Vue.
-* Responsible for the front-end experience of a custom Vue app that manages large-scale hotel wi-fi networks.
-* Built and shipped MVPs for a variety of new features such as visual dashboards, custom wifi splash pages, and tools for connecting hotel guests, conferences, university housing residences, and IoT devices to the internet.
-* Deep integrations with Rest APIs to create intuitive dashboards, charts, forms, tables, and more.
-* Utilize modern JS with Vue including lifecycle model, router, store, refs, event listeners, and more to build custom components and utility functions.
-* Craft modern UIs using CSS3, Flexbox, Bootstrap, SVGs, Web Fonts, Chart.js, and custom modular classes.
-* Professional experience in modern front-end software development using GIT in a collaborative, agile team environment
+2018–Current
+Currently developing next-generation experiences in the IT—Networking space.
+* Responsible for the front end of a Vue.js app that manages large-scale wi-fi networks.
+* Built and shipped sophisticated tools for connecting hotel guests to the internet.
+* Professional experience within an agile team.
 
-UW-Milwaukee, Web Developer
-2005-2015
-Developed leading-edge web projects, sites, redesigns, landing pages, promo content and more.
+UW—Milwaukee, Web Developer
+2005–2015
+Developed leading-edge web sites, redesigns, landing pages, and more.
 
 EDUCATION
-UW-Milwaukee
+UW—Milwaukee
 BBA in Information Systems
 2005
 
 FEATURED PROJECT
 https://github.com/iamjohnmills/gameoflife
-A performant JS + Canvas implementation of Conway's Game Of Life.
-
-**I like making light-weight, native JS apps and games. Check out more of my code samples and working demos at https://github.com/iamjohnmills
+* A light-weight, performant JS + Canvas version of Conway's Game Of Life.
