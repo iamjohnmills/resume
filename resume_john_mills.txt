@@ -1,5 +1,5 @@
 John Mills
-Software Engineer (Front End)
+Frontend Software Engineer
 jpm23456@gmail.com
 414-552-9343
 https://github.com/iamjohnmills
@@ -11,7 +11,7 @@ SKILLS
 Javascript, Vue, React, Typescript, CSS, Rest APIs, RWD, Build Tools, Docker, Git, CI/CD
 
 EXPERIENCE
-Allbridge, Software Engineer (Front End)
+Allbridge, Frontend Software Engineer
 2018–Current
 Currently developing next-generation experiences in the IT—Networking space.
 * Responsible for the front end of a Vue.js app that manages large-scale wi-fi networks.
