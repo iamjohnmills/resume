@@ -14,7 +14,7 @@ EXPERIENCE
 Allbridge, Frontend Software Engineer
 2018–Current
 Currently developing next-generation experiences in the IT—Networking space.
-* Responsible for the front end of a Vue.js app that monitors and manages large-scale networks.
+* Responsible for the frontend of a Vue.js app that monitors and manages large-scale networks.
 * Built and shipped sophisticated tools to visualize complex data and connect hotel guests to wifi.
 * Professional and collaborative agile experience within a distributed team.
 
