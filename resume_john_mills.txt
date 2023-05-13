@@ -2,30 +2,44 @@ John Mills
 Frontend Software Engineer
 jpm23456@gmail.com
 414-552-9343
-https://github.com/iamjohnmills
-https://www.linkedin.com/in/iamjohnmills
 
-Pragmatic and detail-oriented front-end engineer with experience developing large-scale front-end applications. I'm interested in building intuitive UIs within modern tech stacks and distributed systems.
+https://www.linkedin.com/in/iamjohnmills
+https://github.com/iamjohnmills
+https://github.com/iamjohnmills/journal
+
+About Me
+* BBA in Information Systems
+* 5 years experience in modern javascript including Vue, React, Typescript, and ES
+* 5 years experience with REST APIs, async/await, and data return responses
+* 5 years experience shipping front-end production features and fixes
+* 5 years experience working with Git and Gitlab to collaborate and deploy code
+* 15 years experience writing CSS and building UIs
+* Experience with Fullstack technologies including Node, Express, and MongoDB
+* Experience with Web Tools including Docker, NPM, Webpack, Vite, and YML pipelines
+* Experience with AWS technologies including S3, Route53, and Cloudfront
+* Skilled with UIs including User flows, Scaffolding, Routing, RWD, Forms, Modals, and Auth
+* Skilled with React including component class and functional techniques
+* Skilled with canvas, SVGs, animations, data visualizations, and modern interactive technologies
+* Pragmatic sensibilities include component abstraction, readable code, and minimal dependancies
+* Interests include visualizing algorithms, retro aesthetics, mini-games, and new technology experiments
 
 SKILLS
-Javascript, Vue, React, Typescript, CSS, Rest APIs, RWD, Build Tools, Docker, Git, CI/CD
+Javascript, Vue, React, Typescript, CSS, REST APIs, Docker, Git, CI/CD
 
 EXPERIENCE
 Allbridge, Frontend Software Engineer
 2018–Current
 Currently developing next-generation experiences in the IT—Networking space.
-* Responsible for the frontend of a Vue.js app that monitors and manages large-scale networks.
+* Responsible for the frontend of React and Vue apps that monitor and manage large-scale property networks.
 * Built and shipped sophisticated tools to visualize complex data and connect hotel guests to wifi.
 * Professional and collaborative agile experience within a distributed team.
 
-UW—Milwaukee, Web Developer
+UW Milwaukee, Web Developer
 2005–2015
 Developed leading-edge web sites, redesigns, landing pages, and more.
 
 EDUCATION
-UW—Milwaukee
+UW Milwaukee
 BBA in Information Systems
 2005
-
-**I like making light-weight JS apps and games. Check out my code samples and demos at https://github.com/iamjohnmills
 
